@@ -1,6 +1,5 @@
 # 什么是JWT
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b490174-d182-492f-978e-4374cd9a7829/Untitled.png)
 
     JSON Web Token(JWT) is an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object This information can be verified and trusted because it is digitally signed JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
 
@@ -120,7 +119,6 @@
 和授权系统，甚至实现Web应用的单点登录。
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e567a8f-9b98-4090-b167-807905ea5eab/Untitled.png)
 
 ```markdown
 # 5.放在一起
